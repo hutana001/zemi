@@ -1,0 +1,36 @@
+abbreviation    省略形
+assumed     想定
+
+boolean expressions  ブール式   
+
+calculs     微積分学
+
+derive      導く
+
+exposition  解説
+
+For reference   参考までに
+formulation     定式化、考案
+free variable   自由変数
+
+hereditary sets     遺伝的集合
+
+include     含まれる
+informally  非公式に、略式に、くだけて
+intended    意図された、故意の
+
+logical formulas    論理式
+
+notation    表記、記号
+
+outlined    概説
+
+prerequisites   前提条件
+predicate   述語
+
+rather      むしろ
+
+stated      定まった
+
+variables   変化しやすい
+verbose     冗長な
